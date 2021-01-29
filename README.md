@@ -1,0 +1,2 @@
+# fuzzy_rule_generator
+Bulanık Mantıkta Sckit-fuzzy de otomatik kural oluşturma itertools kütüphanesin combinations fonksiyonu ile oluştdurduk  eger hata alırsanız yukarıdaki degiştirmelisiniz ben burada 4 ana bulanık küme ve 4 üyelik derecesi üzerinde çalıştım 256 kurala ihtiyacım vardı ben 4000 kural yazdım print fonksiyonundan sonrasında filtreleme yapılarak daha net alınabilir ben burada ayıklama işlemini  excel tablosu yaparak ayıkladım.
